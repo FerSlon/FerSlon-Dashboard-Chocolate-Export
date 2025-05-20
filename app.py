@@ -49,4 +49,4 @@ st.dataframe(mercados_filtrados)
 # Mostrar barreras de entrada
 st.subheader("Barreras de Entrada")
 barreras_filtradas = barreras[barreras["País"] == pais_seleccionado]
-st.dataframe(barreras_filtradas
+st.dataframe(barreras_filtradas)
