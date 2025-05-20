@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-BASE_URL = "https://raw.githubusercontent.com/FerSlon/Dashboard-Chocolate-Export/main/"
+BASE_URL = "https://raw.githubusercontent.com/FerSlon/FerSlon-Dashboard-Chocolate-Export/main/"
 
 # URLs de los archivos CSV
 clientes_url = BASE_URL + "clientes.csv"
